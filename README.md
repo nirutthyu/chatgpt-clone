@@ -69,3 +69,6 @@ The application supports **Light Mode** and **Dark Mode**
 <p align="center">
   <img width="500" height="500" alt="Light Theme" src="https://github.com/user-attachments/assets/865b3346-512b-4188-a32b-2a645a7e3c8a" />
 </p>
+
+[Repo URL](https://github.com/nirutthyu/chatgpt-clone)
+
